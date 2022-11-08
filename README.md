@@ -6,7 +6,7 @@
 ## Technologies used:
     - Materialize: Front end library
     - JQuery: Front end library
-    - python
+    - Python
     - Javescript
     - Posgresql
     - Flask-SQLAlchemy: version of Flask with SQLAlchemy integration
